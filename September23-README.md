@@ -1,2 +1,2 @@
 For our FYP meeting on September 23, information regarding the gyroglove in regards to function, material, and structure was analyzed in order to decide whether to continue in this domain.
-An elaborative article in addition to a word document with important information can be found. 
+An elaborative article in addition to a word document with important information can be found. Similarly, a soft actuator hand rehabilitation glove was introduced along with two distinct but similar designs (in the two articles), functionality and purpose. It was decided after a discussion among our group that the most practical idea in terms of feasibility and complexity is the soft hand rehabilitation glove. 
